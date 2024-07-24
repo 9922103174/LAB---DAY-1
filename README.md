@@ -1,1 +1,1 @@
-#LAB DAY 1
+LAB DAY 1
